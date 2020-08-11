@@ -1,4 +1,3 @@
 # test-git101
 
-:coffee:
-:pizza:
+:coffee: :pizza: :dancer:
