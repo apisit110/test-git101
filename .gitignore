@@ -1,9 +1,9 @@
 *.log
 .log
 .vscode
-/components
+# /components
 /node_modules
-/pages
+# /pages
 /public
 .next
 
